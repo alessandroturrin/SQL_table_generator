@@ -2,7 +2,7 @@
 LIBRERIA PER LA DEFINIZIONE E LA CREAZIONE DI DATABASE IN LINGUAGGIO SQL
 
 @INFORMAZIONI SULLA LIBRERIA
-Libreria utilizzata per la creazione di attributi random di un database.
+Libreria utilizzata per la creazione di attributi random di un database.</n>
 E' possibile definire mediante input da tastiera lo schema del database.
 Una volta definito lo schema, il software genera in automatico determinati valori, a seconda dei dati forniti in input.
 
