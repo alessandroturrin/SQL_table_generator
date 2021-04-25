@@ -3,25 +3,25 @@ LIBRERIA PER LA DEFINIZIONE E LA CREAZIONE DI DATABASE IN LINGUAGGIO SQL
 
 @INFORMAZIONI SULLA LIBRERIA
 Libreria utilizzata per la creazione di attributi random di un database.</br>
-E' possibile definire mediante input da tastiera lo schema del database.
-Una volta definito lo schema, il software genera in automatico determinati valori, a seconda dei dati forniti in input.
+E' possibile definire mediante input da tastiera lo schema del database.</br>
+Una volta definito lo schema, il software genera in automatico determinati valori, a seconda dei dati forniti in input.</br>
 
-Per lo schema, vengono richieste le seguenti informazioni:
-1)Nome database
-2)Numero di tabelle del database
-   2.1)Nome tabella
-   2.2)Numero di attributi della tabella
-      2.2.1)Nome dell'attributo
-      2.2.2)Specifiche dell'attributo:
-         2.2.2.1)Per il tipo 'Char' è richiesta la dimensione
-         2.2.2.2)Per il tipi 'Decimal' sono richieste la precisione e la scala
-      2.2.2)Tipo dell'attributo ['Int','Char','Decimal',Date']
-      2.2.3)Chiave primaria [Y/N] (non disponibile per il tipo 'Date')
-      2.2.3)Reference key[Y/N]
-         2.2.3.1)Tabella di riferimento
-         2.2.3.2)Chiave di riferimento
-Per ulteriori informazioni riguardanti i tipi di dato, fare riferimento al paragrafo '@DETTAGLI TIPI DI DATO'.
-E' consigliabile impostare tutte le chiavi primarie come Char e non come int.
+Per lo schema, vengono richieste le seguenti informazioni:</br>
+1)Nome database</br>
+2)Numero di tabelle del database</br>
+   2.1)Nome tabella</br>
+   2.2)Numero di attributi della tabella</br>
+      2.2.1)Nome dell'attributo</br>
+      2.2.2)Specifiche dell'attributo:</br>
+         2.2.2.1)Per il tipo 'Char' è richiesta la dimensione</br>
+         2.2.2.2)Per il tipi 'Decimal' sono richieste la precisione e la scala</br>
+      2.2.2)Tipo dell'attributo ['Int','Char','Decimal',Date']</br>
+      2.2.3)Chiave primaria [Y/N] (non disponibile per il tipo 'Date')</br>
+      2.2.3)Reference key[Y/N]</br>
+         2.2.3.1)Tabella di riferimento</br>
+         2.2.3.2)Chiave di riferimento</br>
+Per ulteriori informazioni riguardanti i tipi di dato, fare riferimento al paragrafo '@DETTAGLI TIPI DI DATO'.</br>
+E' consigliabile impostare tutte le chiavi primarie come Char e non come int.</br>
 
 
 @DETTAGLI COMANDI
